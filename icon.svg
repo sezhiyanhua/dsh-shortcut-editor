@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Keyboard">
+  <rect x="4" y="14" width="56" height="36" rx="8" fill="#1b1f27"/>
+  <g fill="#f4f6fb">
+    <rect x="11" y="21" width="8" height="7" rx="2"/>
+    <rect x="22" y="21" width="8" height="7" rx="2"/>
+    <rect x="33" y="21" width="8" height="7" rx="2"/>
+    <rect x="44" y="21" width="9" height="7" rx="2"/>
+    <rect x="11" y="31" width="8" height="7" rx="2"/>
+    <rect x="44" y="31" width="9" height="7" rx="2"/>
+    <rect x="11" y="41" width="8" height="7" rx="2"/>
+    <rect x="44" y="41" width="9" height="7" rx="2"/>
+  </g>
+  <rect x="22" y="31" width="19" height="7" rx="2" fill="#247bbf"/>
+  <rect x="22" y="41" width="19" height="7" rx="2" fill="#247bbf" opacity="0.55"/>
+</svg>

@@ -1,0 +1,16 @@
+# 上架草稿 / Marketplace entry draft
+#
+# 这份文件不是插件包的一部分，只是提交给策展仓库时用的条目模板。
+# Target repo: https://github.com/awesome-dsh-plugin/awesome-dsh-plugin
+# Target path: data/plugins/sezhiyanhua__dsh-shortcut-editor.yml  (一个 PR 最多 3 条)
+#
+# 提交前仍需满足：仓库公开且创建满 1 天；package.json 带 dsh.bundle（已有）；
+# icon 为仓库内托管的 png/jpg/webp（本仓库已有 icon.png）。
+
+url: https://github.com/sezhiyanhua/dsh-shortcut-editor
+name: sezhiyanhua/dsh-shortcut-editor
+category: ui
+description:
+  en: "Adds a Keyboard shortcuts page to Settings that lists every app shortcut beside its default binding, lets you rebind it by pressing a key combination, and restores one item or all defaults at once. Follows the app language."
+  zh: "在设置里增加「快捷键」页，把每个应用快捷键与它的默认按键并排对照，按键即可重新绑定，并支持按项或全部还原默认，跟随应用语言切换中英文。"
+icon: https://github.com/sezhiyanhua/dsh-shortcut-editor/raw/main/icon.png
